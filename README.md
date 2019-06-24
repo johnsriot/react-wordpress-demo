@@ -1,4 +1,4 @@
-Site is located at https://d2dtnn4x0wsx0p.cloudfront.net
+View the React Wordpress Demo [here.](https://d2dtnn4x0wsx0p.cloudfront.net)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
