@@ -1,0 +1,14 @@
+{
+    "reactword": {
+        "awscloudformation": {
+            "AuthRoleName": "react-wordpress-demo-reactword-20190624002418-authRole",
+            "UnauthRoleArn": "arn:aws:iam::752275707990:role/react-wordpress-demo-reactword-20190624002418-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::752275707990:role/react-wordpress-demo-reactword-20190624002418-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "react-wordpress-demo-reactword-20190624002418-deployment",
+            "UnauthRoleName": "react-wordpress-demo-reactword-20190624002418-unauthRole",
+            "StackName": "react-wordpress-demo-reactword-20190624002418",
+            "StackId": "arn:aws:cloudformation:us-east-1:752275707990:stack/react-wordpress-demo-reactword-20190624002418/50ba70e0-9640-11e9-a102-0a325fb8c980"
+        }
+    }
+}
